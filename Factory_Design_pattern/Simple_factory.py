@@ -1,5 +1,3 @@
-from abc import ABC, abstractmethod
-
 class Pizza:
     def __init__(self, name):
         self.name = name
